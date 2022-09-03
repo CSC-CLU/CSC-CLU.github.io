@@ -2,8 +2,6 @@
 layout: home
 ---
 
-# shamelessly borrowed from dfederm.github.io
-
 <div class="home">
     {%- if page.title -%}
     <h1 class="page-heading">{{ page.title }}</h1>
